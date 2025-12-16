@@ -1,3 +1,4 @@
+## Link to the dataset: https://catalog.data.gov/dataset/medicare-outpatient-hospitals-by-provider-and-service-b164f/resource/3fed59f6-e23d-4649-bf7e-f12455d09063
 # Medicare-Outpatient-Cost-Profitability-Analysis
 
 This project analyzes Medicare outpatient hospital data to uncover cost and utilization patterns, identify geographic disparities, and evaluate provider billing efficiency. Using SQL and Tableau, the analysis aims to highlight strategic recommendations to reduce healthcare costs and improve transparency.
